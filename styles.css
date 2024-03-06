@@ -11,6 +11,7 @@ body {
 input {
   text-align: center;
   font-size: 3vh;
+  margin-bottom: 2vh;
 }
 
 button {
